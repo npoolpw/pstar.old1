@@ -1,14 +1,14 @@
-var api = "http://poolhost.com:1117";
+var api = "http://ca.npool.pw:8114";
 
 var api_blockexplorer = "http://daemonhost.com:1118";
 
-var poolHost = "poolhost.com";
+var poolHost = "ca.npool.pw";
 
 var irc = "irc.freenode.net/#poolhost";
 
 var email = "support@poolhost.com";
 
-var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
+var cryptonatorWidget = ["BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
