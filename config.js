@@ -20,11 +20,8 @@ var themeCss = "themes/default-theme.css";
 
 var networkStat = {
     "pstar": [
-        ["pnks.frenchmining.club", "http://pnks.frenchmining.club:8113"],
-        ["labbinarymining.com", "http://pinkstarcoin.labbinarymining.com:8117"],
-        ["pinkstar.blockhunter.xyz", "pinkstar.blockhunter.xyz:1321"],
-        ["pnks.hpool.net", "http://pnks.hpool.net:8216"],
-        ["pnks.mybot.wtf", "http://pnks.mybot.wtf:8117"],
+        ["pstar.poolmining.us", "http://pstar.poolmining.us:7111"],
+        ["pinkpool.ga", "http://pinkpool.ga:8117"],
         ["npool.pw/pstar", "http://ca.npool.pw:8114"]
     ]
 };
